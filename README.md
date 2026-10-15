@@ -33,4 +33,4 @@ npm run preview
 - [src/style.css](src/style.css) — interface and visual styling
 - [public](https://github.com/bobo-labs/NAK/tree/main/public) — scene and media assets
 
-Built by [Alejandro Mendoza / bobo labs](https://github.com/bobo-labs).
+Built by [barkz](https://github.com/bobo-labs).
